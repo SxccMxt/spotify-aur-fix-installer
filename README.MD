@@ -9,5 +9,4 @@ spotify-aur-fix-installer - downloads spotify from the aur, fixes the broken pkg
 
 4. run the following commands
 
-    chmod +x spotifyfix.sh
-    ./spotifyfix.sh
+    chmod +x spotifyfix.sh && ./spotifyfix.sh
