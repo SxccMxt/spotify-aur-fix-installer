@@ -23,5 +23,6 @@ else
     search='chmod -R go-w "${pkgdir}"'
     replace='find "${pkgdir}" ! -type l -exec chmod go-w {} +'
     sed -i "s/$search/$replace/" ./spotify/PKGBUILD
+    cd ./spotify/
     makepkg -si
 fi
