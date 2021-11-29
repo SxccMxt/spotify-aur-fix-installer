@@ -1,4 +1,5 @@
-spotify-aur-fix-installer - downloads spotify from the aur, fixes the broken pkgbuild and installs it
+[THIS IS NO LONGER REQUIRED.]
+spotify-aur-fix-installer - downloaded spotify from the aur, fixed an error and installed it
 
 1. git clone this repo or download using github's web interface
  
